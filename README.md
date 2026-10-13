@@ -37,7 +37,7 @@ The report bases the reconstruction concept on the Spectrum-Aided Vision Enhance
 | [`Source Code/Windows/Application/`](Source%20Code/Windows/Application/) | Packaged Windows application. |
 | [`Source Code/Windows/INSTALLER/`](Source%20Code/Windows/INSTALLER/) | Windows installer. |
 | [`Source Code/Raspberry Pi/`](Source%20Code/Raspberry%20Pi/) | Linux and Windows launcher scripts. |
-| [`Documentation/`](Documentation/) | Project report, presentation, and screen recording. |
+| [`Documentation/`](Documentation/) | Project report, presentation, original screen recording, and the additional [`HSI.mp4`](Documentation/HSI.mp4) video. |
 | [`Screenshot/`](Screenshot/) | Two examples of the original and processed views. |
 | [`execution.md`](execution.md) | Earlier interface and model-integration specification. |
 | [`requirements.txt`](requirements.txt) | Python dependencies listed with the project. |
