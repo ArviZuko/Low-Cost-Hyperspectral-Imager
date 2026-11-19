@@ -1,0 +1,30 @@
+{
+  "files": [
+    {
+      "path": "Documentation/HSI.mp4",
+      "size": 236057641,
+      "sha256": "1da1ddf292719efcc999d1c9c65fc8b094d67f99c3159303a691d6ae88d5e7e4",
+      "parts": [
+        {
+          "url": "https://github.com/ArviZuko/Low-Cost-Hyperspectral-Imager/releases/download/large-files-no-lfs/HSI.mp4",
+          "size": 236057641,
+          "sha256": "1da1ddf292719efcc999d1c9c65fc8b094d67f99c3159303a691d6ae88d5e7e4",
+          "name": "HSI.mp4"
+        }
+      ]
+    },
+    {
+      "path": "Documentation/Screen Recording 2026-07-26 235932.mp4",
+      "size": 505822650,
+      "sha256": "a19690319a6e177c88e627e3075e0dc49c0535781ca8903afec3546279336840",
+      "parts": [
+        {
+          "url": "https://github.com/ArviZuko/Low-Cost-Hyperspectral-Imager/releases/download/large-files-no-lfs/Screen.Recording.2026-07-26.235932.mp4",
+          "size": 505822650,
+          "sha256": "a19690319a6e177c88e627e3075e0dc49c0535781ca8903afec3546279336840",
+          "name": "Screen Recording 2026-07-26 235932.mp4"
+        }
+      ]
+    }
+  ]
+}
